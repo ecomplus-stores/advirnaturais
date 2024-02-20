@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete grátis para compras acima de R$100,00 - (Valido para Vitória da Conquista)"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Pague parcelado sem juros no ato da entrega."
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "1º Compra cupom de 10% de desconto."
   }
 }
