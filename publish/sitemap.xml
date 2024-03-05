@@ -686,6 +686,18 @@
     </url>
   
     <url>
+      <loc>https://advirnaturais.netlify.app/lemon-pepper</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/lemon-pepper-c943</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://advirnaturais.netlify.app/acucares</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -788,13 +800,13 @@
     </url>
   
     <url>
-      <loc>https://advirnaturais.netlify.app/pages/trocas</loc>
+      <loc>https://advirnaturais.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://advirnaturais.netlify.app/pages/termos</loc>
+      <loc>https://advirnaturais.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -818,15 +830,15 @@
     </url>
   
     <url>
-      <loc>https://advirnaturais.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://advirnaturais.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
