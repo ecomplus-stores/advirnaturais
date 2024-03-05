@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.dd23e17f85d5d87a9bacf757e9049415.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.74ac0548f4285f12eeb243fae6c6a723.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.c543bca930e5c2ed7474a390ce690895.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.930d8113e766b4017e9e2ef036c5cd92.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.5edb52c6e7d9ca6683aa3d3be7d41b23.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "advirnaturais",
+  "short_name": "advirnaturais",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "advirnaturais",
+  "background_color": "#ffffff",
+  "theme_color": "#d09a51"
+}
