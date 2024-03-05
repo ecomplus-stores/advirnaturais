@@ -2,72 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://advirnaturais.netlify.app/acucares</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/castanhas-e-oleogenosas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/cereais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/chas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/farinaceos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/frutas-secas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/graos-e-sementes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/integrais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/proteinas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/suplementos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://advirnaturais.netlify.app/temperos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://advirnaturais.netlify.app/acucar-de-coco---200g</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -764,6 +698,84 @@
     </url>
   
     <url>
+      <loc>https://advirnaturais.netlify.app/paprica-defumada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/paprica-defumada-c611</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/acucares</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/castanhas-e-oleogenosas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/cereais</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/chas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/farinaceos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/frutas-secas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/graos-e-sementes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/integrais</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/proteinas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/suplementos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://advirnaturais.netlify.app/temperos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://advirnaturais.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -776,13 +788,13 @@
     </url>
   
     <url>
-      <loc>https://advirnaturais.netlify.app/pages/pagamentos</loc>
+      <loc>https://advirnaturais.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://advirnaturais.netlify.app/pages/faq</loc>
+      <loc>https://advirnaturais.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -800,13 +812,13 @@
     </url>
   
     <url>
-      <loc>https://advirnaturais.netlify.app/pages/termos</loc>
+      <loc>https://advirnaturais.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://advirnaturais.netlify.app/pages/trocas</loc>
+      <loc>https://advirnaturais.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
